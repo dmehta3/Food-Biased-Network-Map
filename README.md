@@ -1,7 +1,8 @@
-# Collaborators - Dhruv, Adam, Daksh
+#Collaborators - Dhruv, Adam, Daksh
 
     Fabricate a C++ program that simulated user relationships and food preferences based on cuisines and restaurants
-    Implement a directed graph, breadth first search, unordered map and a max heap to represent friend networks, recommended restaurants, user cravings, and cuisine preferences
+    Implement a directed graph, breadth first search, unordered map and a max heap to represent friend networks, 
+    recommended restaurants, user cravings, and cuisine preferences
     Accept user requests to manipulate data structures and return visualizations of the data structures
     
     
@@ -12,7 +13,8 @@
         Ideas: 
             Using Directed Graph for friends, easiest implementation 
             Breadthfirst search is the right algorithm to use
-                When you call eat, you call a cuisine and a distance, all the friends within the distance, the BFS goes that many times for the distance, return the first instance of a restaurant with a matching cuisine that is recommended by a friend
+                When you call eat, you call a cuisine and a distance, all the friends within the distance, the BFS goes that many times for the distance, return the first instance of 
+                restaurant with a matching cuisine that is recommended by a friend
             Friends can have associated restaurants that they recommend 
             
 
