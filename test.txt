@@ -1,0 +1,29 @@
+create a 
+create b 
+create c 
+create d 
+create e 
+friend a b
+friend a c
+friend a d
+unfriend a d 
+friend c d 
+friend d e 
+add chipotle mex 
+add tacobell mex 
+add olive italian 
+add pizza italian
+add burger america
+rec b chipotle 
+rec b pizza 
+rec c tacobell
+rec d olive 
+rec e burger
+rec d tacobell
+unrec d tacobell
+crave a mex 5
+crave a italian 6
+crave a america 7
+crave a mex 3
+eat a 2
+quit
