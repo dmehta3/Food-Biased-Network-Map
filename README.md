@@ -24,7 +24,7 @@
                 Whatever is the root is what you will eat, after eating, re-insert at bottom (value of 0 points)
             Two cuisines with the same craving points, either are fine
             Percolating can have a less than or less than or equal to as the condition
-            Searching for a cuisine, use the hash map to know exactly where the cuisine is in the heap, reduce      search time
+            Searching for a cuisine, use the hash map to know exactly where the cuisine is in the heap, reduce search time
                 Tell your hash map where you move something in the heap 
                     Add craving points and percolate up 
                     Move pointer in hash map 
